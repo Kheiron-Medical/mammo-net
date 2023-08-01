@@ -59,6 +59,10 @@ After training, the script [evaluation.ipynb](evaluation.ipynb) can be used to p
 
 The script [mammo-net.py](mammo-net.py) will produce a trained model and outputs for the test data in csv format containing predictions for the individual test images. Training the model may take several hours on a high-end GPU workstation.
 
+## License
+
+This code repository is licensed under the [MIT License](LICENSE).
+
 ## Copyright
 
 (c) 2023. All rights reserved.
